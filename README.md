@@ -12,7 +12,7 @@ uma API Rest que realize operações básicas com as entidades abaixo:
 - Data e hora de fim 
 
 # Tecnologias utilizadas
-- Java
+- Java 17
 - Spring Boot
 - JPA / Hibernate
 - Maven
