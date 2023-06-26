@@ -3,7 +3,7 @@
 - Sobre o Projeto
 
 O projeto proposto é uma aplicação back end na qual é preciso desenvolver 
-uma API Rest que realize operações básicas com as entidades abaixo:
+uma API Rest que realiza operações básicas com as entidades abaixo:
 
 - Id
 - Nome
